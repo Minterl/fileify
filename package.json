@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "An easy way to read files in your website.",
   "main": "fileify.js",
-  "git-repository": "",
+  "git-repository": "https://github.com/Minterl/fileify.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
   },
