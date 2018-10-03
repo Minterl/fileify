@@ -1,0 +1,19 @@
+{
+  "name": "fileify",
+  "version": "1.0.0",
+  "description": "An easy way to read files in your website.",
+  "main": "fileify.js",
+  "git-repository": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "keywords": [
+    "file",
+    "file-reading",
+    "ease-of-use",
+    "i/o"
+  ],
+  "author": "M Int",
+  "license": "ISC",
+  "devDependencies": {}
+}
